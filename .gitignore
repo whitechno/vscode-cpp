@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Debugging
+*.out.dSYM
+
+# Non-C++
+.DS_Store
